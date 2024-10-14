@@ -13,10 +13,19 @@ showcasing my development and research skills in the field. Below, you'll find d
 ## List
 
 ### First Project 
-  - **[Airline Management System (AMS)](https://github.com/samiwadh/Database-Project/tree/main/List%20of%20project/Airline%20Management%20System)**
-    - I take Three Project of (AMS) from my Remote work each project build on differnet Logic , Systax, UI. These project care two part
-      - Part One is based on Backend and thesis
-      - Part Second care User Interface and thesis
+  - **[Plant Disease Detection](https://github.com/samiwadh/AI-Project/tree/main/Plant%20Disease%20Detection)**
+    - This project utilizes deep learning to detect and classify diseases in plant leaves from image data. The aim is to assist in the early identification of diseases to improve agricultural outcomes.
+      - This project utilizes deep learning to detect and classify diseases in plant leaves from image data.
+      - The aim is to assist in the early identification of diseases to improve agricultural outcomes.
+
+Features:
+Image preprocessing and augmentation
+CNN model for disease classification
+Trained on a publicly available plant disease dataset
+Tech Stack:
+Python
+TensorFlow/Keras
+OpenCV
 ### Second Project 
   - **[Clinic Management System (CMS)](https://github.com/samiwadh/Database-Project/tree/main/List%20of%20project/CLINIC%20Management%20System)**
     -  I create this project on daily bases work so this project don't care the thesis files. this project only care backend and the UI 
