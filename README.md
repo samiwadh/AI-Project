@@ -18,14 +18,15 @@ showcasing my development and research skills in the field. Below, you'll find d
       - This project utilizes deep learning to detect and classify diseases in plant leaves from image data.
       - The aim is to assist in the early identification of diseases to improve agricultural outcomes.
 
-Features:
-Image preprocessing and augmentation
-CNN model for disease classification
-Trained on a publicly available plant disease dataset
-Tech Stack:
-Python
-TensorFlow/Keras
-OpenCV
+    - Features:
+      - Image preprocessing and augmentation
+      - CNN model for disease classification
+      - Trained on a publicly available plant disease dataset
+    - Tech Stack:
+      - Python
+      - TensorFlow/Keras
+      - OpenCV
+        
 ### Second Project 
   - **[Handwriting Recognition](https://github.com/samiwadh/AI-Project/tree/main/Handwriting%20Recognition)**
     -  This project focuses on detecting handwritten characters using deep learning techniques. It involves creating a model that can recognize various handwritten inputs from an image dataset.
