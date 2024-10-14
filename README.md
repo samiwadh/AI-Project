@@ -27,8 +27,18 @@ Python
 TensorFlow/Keras
 OpenCV
 ### Second Project 
-  - **[Clinic Management System (CMS)](https://github.com/samiwadh/Database-Project/tree/main/List%20of%20project/CLINIC%20Management%20System)**
-    -  I create this project on daily bases work so this project don't care the thesis files. this project only care backend and the UI 
+  - **[Handwriting Recognition](https://github.com/samiwadh/AI-Project/tree/main/Handwriting%20Recognition)**
+    -  This project focuses on detecting handwritten characters using deep learning techniques. It involves creating a model that can recognize various handwritten inputs from an image dataset.
+    - Features:
+      - Preprocessing of handwritten image data
+      - Neural network model for classification
+      - Accuracy optimization using data augmentation techniques
+        
+    - Tech Stack:
+      - Python
+      - TensorFlow/Keras
+      - OpenCV  
+
 ### Third Project 
   - **[Hospital Management System (HMS)](https://github.com/samiwadh/Database-Project/tree/main/List%20of%20project/HOSPITAL%20Management%20System)**
     - I create two Diffenent Hospital Management System project. Which is in **HMS** Folder I put the Address of second project
